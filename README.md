@@ -1,9 +1,9 @@
+# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ###  DATE: 05-04-2024
-
 ###  NAME: Ashwin Akash M
 ###  ROLL NO : 212223230024
 ###  DEPARTMENT: AI&DS
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
+
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
 ### Components Required:
