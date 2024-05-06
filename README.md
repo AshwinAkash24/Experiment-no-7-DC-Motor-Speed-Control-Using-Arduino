@@ -1,5 +1,5 @@
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-###  DATE: 08-05-2024
+###  DATE: 08-04-2024
 ###  NAME: Ashwin Akash M
 ###  ROLL NO : 212223230024
 ###  DEPARTMENT: AI&DS
